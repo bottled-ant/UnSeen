@@ -17,7 +17,8 @@ categories: posts
 
 <p></p>
 
-#### NOTE: for some reason lists are not working \-\-\'
+#### NOTE: for some reason lists are not working from github \-\-\'
+
 
 To create a new post:
   * file name
@@ -33,6 +34,7 @@ To create a new post:
   * p html (un_glue content form cover img)
   * \# title h1
   * p html (un_glue content form cover img)
+
 
   <p></p>
 
@@ -62,7 +64,7 @@ I want to wrap **this text** in a `strong` tag and *this text* in an `emphasis` 
 I usually search using [Google](https://www.google.com "Google").
 
 ### Images
-![LOGO](images/logo.png)
+![LOGO](https://bottled-ant.github.io/blog/images/mad_antonio.png)
 
 object|width|height
 :-|-:|-:
