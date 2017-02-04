@@ -5,7 +5,6 @@ highlighter: rouge
 description: UnProject Archive
 url: "https://bottled-ant.github.io/blog/"
 baseurl: /blog
-lsi: false
 
 exclude: [LICENCE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
 
