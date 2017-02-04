@@ -1,3 +1,12 @@
+# General Jekyll Config
 name: UnProject
 markdown: kramdown
-pygments: rouge
+highlighter: rogue
+description: UnProject Archive
+url: "https://bottled-ant.github.io/blog/"
+lsi: false
+
+exclude: [LICENCE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
+
+# Build Settings
+permalink: pretty
