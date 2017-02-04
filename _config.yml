@@ -1,6 +1,6 @@
 # General Jekyll Config
 name: UnProject
-markdown: kramdown
+markdown: redcarpet
 highlighter: rouge
 description: UnProject Archive
 url: "https://bottled-ant.github.io/blog/"
