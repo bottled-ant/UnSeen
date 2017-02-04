@@ -3,7 +3,7 @@ name: UnProject
 markdown: kramdown
 highlighter: rouge
 description: UnProject Archive
-url: "https://bottled-ant.github.io/blog/"
+url: "https://bottled-ant.github.io/blog"
 baseurl: /blog
 
 exclude: [LICENCE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
