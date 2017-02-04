@@ -1,59 +1,37 @@
-flex
-====
-
-Flex is a responsive, flexible, [Jekyll](http://jekyllrb.com) theme.
-
-The theme is based on the website [The Development](http://thedevelopment.co).
-
-View a demo website [here](http://the-development.github.io/flex/).
-
-Installation
+UnProject
 ===
-To use this theme, you would do so like any other Jekyll setup:
 
-1. Install Jekyll: `gem install jekyll`
-2. Fork this repository to your machine
-3. `cd` to the forked directory and run `jekyll serve --watch`
-4. Celebrate and dance.
+
+Author
+===
+
 
 Contributions
 ===
 
-In general, there are no strict rules for contributing, only that your code is clean and well structured.
-
-For bugs:
-- To merge a fix, you can simply open a pull request.
-- To report one that is not yet fixed, open an issue.
-
-Feature requests:
-- **Always** open an issue first before implementing and proposing a new feature. This is only so I can make sure the theme doesn't become bloated with too many features. This way, I can determine if an idea is something that makes sense for the theme's design.
-
-If in doubt, you can always ask me on Twitter: [@jeffxmn](https://twitter.com/jeffxmn)
 
 License
 ===
 
-Flex is licensed under the MIT license:
+This is free and unencumbered "thing" released into the public domain.
 
+Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute this "thing", either in source code form or as a compiled
+binary, for any purpose, commercial or non-commercial, and by any
+means.
 
-The MIT License (MIT)
+In jurisdictions that recognize copyright laws, the author or authors
+of this "thing" dedicate any and all copyright interest in this
+"thing" to the public domain. We make this dedication for the benefit
+of the public at large and to the detriment of our heirs and
+successors. We intend this dedication to be an overt act of
+relinquishment in perpetuity of all present and future rights to this
+"thing" under copyright law.
 
-Copyright (c) 2013-2014 Jeff Martin
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+THIS "THING" IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THIS "THING" OR THE USE OR
+OTHER DEALINGS IN THIS "THING".
