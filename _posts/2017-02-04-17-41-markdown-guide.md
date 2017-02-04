@@ -7,10 +7,15 @@ categories: posts
 ---
 
 ---
+<p></p>
 
 # Markdown Guide
 
+<p></p>
+
 ### kramdown
+
+<p></p>
 
 To create a new post:
   * file name
@@ -26,6 +31,8 @@ To create a new post:
   * p html (un_glue content form cover img)
   * \# title h1
   * p html (un_glue content form cover img)
+
+  <p></p>
 
 ---
 
