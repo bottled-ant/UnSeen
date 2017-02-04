@@ -6,6 +6,8 @@ date:   2017-02-04 17:41:00
 categories: posts
 ---
 
+---
+
 # Markdown Guide
 
 ### kramdown
@@ -51,7 +53,7 @@ I want to wrap **this text** in a `strong` tag and *this text* in an `emphasis` 
 I usually search using [Google](https://www.google.com "Google").
 
 ### Images
-![LOGO](/images/logo.png)
+![LOGO](images/logo.png)
 
 object|width|height
 :-|-:|-:
