@@ -17,6 +17,8 @@ categories: posts
 
 <p></p>
 
+#### NOTE: for some reason lists are not working \-\-\'
+
 To create a new post:
   * file name
     * (2000-01-01-00-00-default-temp.md)
