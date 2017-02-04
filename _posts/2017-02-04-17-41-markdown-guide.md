@@ -5,11 +5,10 @@ cover: cover.jpg
 date:   2017-02-04 17:41:00
 categories: posts
 ---
-<p></p>
+
 # Markdown Guide
-<p></p>
+
 ### kramdown
-<p></p>
 
 To create a new post:
   * file name
@@ -25,7 +24,6 @@ To create a new post:
   * p html (un_glue content form cover img)
   * \# title h1
   * p html (un_glue content form cover img)
-<p></p>
 
 ---
 
@@ -39,10 +37,8 @@ To create a new post:
 | use number. | | | to create a ordered list
 
 ---
-<p></p>
 
 #### NOTE: avoid tables or create them on html, kramdown markdown is annoying creating tables.
-<p></p>
 
 ### Blockquotes
 (decoration is disabled but it will still render as a paragraph)
@@ -63,5 +59,4 @@ cover.jpg|734px|min50px
 logo.png|128px|128px
 oooooooooo|oooooooooo|oooooooooo
 
-<p></p>
 For more go to [kramdown](https://kramdown.gettalong.org/index.html)
