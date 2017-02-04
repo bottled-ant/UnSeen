@@ -7,13 +7,13 @@
       <meta name="viewport" content="width=device-width">
 
       <!-- syntax highlighting CSS -->
-      <link rel="stylesheet" href="css/syntax.css">
+      <link rel="stylesheet" href="{{ site.url }}/css/syntax.css">
 
       <!-- Custom CSS -->
-      <link rel="stylesheet" href="css/main.css">
+      <link rel="stylesheet" href="{{ site.url }}/css/main.css">
 
       <!-- Responsive CSS -->
-      <link rel="stylesheet" href="css/responsive.css">
+      <link rel="stylesheet" href="{{ site.url }}/css/responsive.css">
 
       <!-- Google Fonts -->
       <link href='https://fonts.googleapis.com/css?family=Droid+Sans+Mono:300,400,700' rel='stylesheet' type='text/css'>
@@ -33,7 +33,7 @@
           <ul class="posts-list">
             {% for post in site.posts %}
               <li class="post-link">
-                <a class="post-title" href="{{ post.url | prepend: site.baseurl }}">
+                <a class="post-title" href="{{ post.url }}">
                   <span class="post-date">{{ post.date | date: "%-d %b %Y %R" }}</span>
                   {{ post.title }}
                 </a>
@@ -53,6 +53,6 @@
         {{ content }}
 
     </div>
-    <script src="scripts/responsive.js" type="text/javascript"></script>
+    <script src="{{ site.url }}/scripts/responsive.js" type="text/javascript"></script>
   </body>
 </html>
