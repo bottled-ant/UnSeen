@@ -10,9 +10,10 @@ categories: posts
 <p></p>
 
 # Markdown Guide
+
 ### kramdown
 
-This guide is here, because I tend to forget basic stuff.
+This guide is here, because I tend to forget basic stuff and for testing reasons.
 
 <p></p>
 
@@ -83,7 +84,22 @@ I want to wrap **this text** in a `strong` tag and *this text* in an `emphasis` 
 I usually search using [Google](https://www.google.com "Google").
 
 ### Images
-![LOGO](https://bottled-ant.github.io/blog/images/logo.png)
+---
+![LOGO](https://bottled-ant.github.io/blog/images/_cover.jpg)
+---
+![LOGO](https://bottled-ant.github.io/blog/images/cover.jpg)
+---
+![LOGO](https://bottled-ant.github.io/blog/images/about.jpg)
+---
+![LOGO](https://bottled-ant.github.io/blog/images/block.jpg)
+---
+![LOGO](https://bottled-ant.github.io/blog/images/guide.jpg)
+---
+![LOGO](https://bottled-ant.github.io/blog/images/lost.jpg)
+---
+![LOGO](https://bottled-ant.github.io/blog/images/logo.jpg)
+---
+![LOGO](https://bottled-ant.github.io/blog/images/sidebar-button.jpg)
 
 object|width|height
 :-|-:|-:
