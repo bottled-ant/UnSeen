@@ -19,7 +19,6 @@ categories: posts
 
 #### NOTE: for some reason lists are not working from github \-\-\'
 
-
 To create a new post:
   * file name
     * (2000-01-01-00-00-default-temp.md)
@@ -35,8 +34,30 @@ To create a new post:
   * \# title h1
   * p html (un_glue content form cover img)
 
-
   <p></p>
+
+---
+
+<p></p>
+
+---
+
+| To create a new post |
+|:-|
+| file name |
+| (2000-01-01-00-00-default-temp.md) |
+| |
+| front matter |
+| \-\-\- |
+| title: Post Markdown Testing |
+| cover: cover.jpg |
+| date:   2000-01-01 00:00:00 |
+| categories: posts |
+| \-\-\- |
+
+---
+
+<p></p>
 
 ---
 
@@ -51,10 +72,9 @@ To create a new post:
 
 ---
 
-#### NOTE: avoid tables or create them on html, kramdown markdown is annoying creating tables.
+NOTE: avoid tables or create them on html, kramdown markdown is annoying creating tables.
 
-### Blockquotes
-(decoration is disabled but it will still render as a paragraph)
+### Blockquotes (decoration is disabled but it will still render as a paragraph)
 > This is a blockquote.
 
 ### Inline formatting
@@ -64,7 +84,7 @@ I want to wrap **this text** in a `strong` tag and *this text* in an `emphasis` 
 I usually search using [Google](https://www.google.com "Google").
 
 ### Images
-![LOGO](https://bottled-ant.github.io/blog/images/mad_antonio.png)
+![LOGO](https://bottled-ant.github.io/blog/images/logo.png)
 
 object|width|height
 :-|-:|-:
