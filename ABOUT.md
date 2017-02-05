@@ -9,6 +9,20 @@ categories: about
 ---
 <p></p>
 
-# Who Am I?
+# Quem sou eu?
+
+<p></p>
+
+---
+<p></p>
+
+# O que é este blog?
+
+<p></p>
+
+---
+<p></p>
+
+# O que é este projecto?
 
 <p></p>

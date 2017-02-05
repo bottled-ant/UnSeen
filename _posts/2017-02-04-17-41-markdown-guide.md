@@ -19,20 +19,20 @@ categories: posts
 
 #### NOTE: for some reason lists are not working from github \-\-\'
 
-To create a new post:
-  + file name
-    + (2000-01-01-00-00-default-temp.md)
-  + front matter
-    + \-\-\-
-    + layout: post
-    + title: Post Markdown Testing
-    + cover: cover.jpg
-    + date:   2000-01-01 00:00:00
-    + categories: posts
-    + \-\-\-
-  + p html (un_glue content form cover img)
-  + \# title h1
-  + p html (un_glue content form cover img)
+[comment]: <> To create a new post:
+[comment]: <>   + file name
+[comment]: <>     + (2000-01-01-00-00-default-temp.md)
+[comment]: <>   + front matter
+[comment]: <>     + \-\-\-
+[comment]: <>     + layout: post
+[comment]: <>     + title: Post Markdown Testing
+[comment]: <>     + cover: cover.jpg
+[comment]: <>     + date:   2000-01-01 00:00:00
+[comment]: <>     + categories: posts
+[comment]: <>     + \-\-\-
+[comment]: <>   + p html (un_glue content form cover img)
+[comment]: <>   + \# title h1
+[comment]: <>   + p html (un_glue content form cover img)
 
   <p></p>
 
