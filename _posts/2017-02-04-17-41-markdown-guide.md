@@ -85,21 +85,19 @@ I usually search using [Google](https://www.google.com "Google").
 
 ### Images
 ---
-![LOGO](https://bottled-ant.github.io/blog/images/_cover.jpg)
----
-![LOGO](https://bottled-ant.github.io/blog/images/cover.jpg)
----
-![LOGO](https://bottled-ant.github.io/blog/images/about.jpg)
----
-![LOGO](https://bottled-ant.github.io/blog/images/block.jpg)
----
-![LOGO](https://bottled-ant.github.io/blog/images/guide.jpg)
----
-![LOGO](https://bottled-ant.github.io/blog/images/lost.jpg)
----
-![LOGO](https://bottled-ant.github.io/blog/images/logo.jpg)
----
-![LOGO](https://bottled-ant.github.io/blog/images/sidebar-button.jpg)
+![cover](https://bottled-ant.github.io/blog/images/cover.jpg)
+
+![about](https://bottled-ant.github.io/blog/images/about.jpg)
+
+![block](https://bottled-ant.github.io/blog/images/block.jpg)
+
+![guide](https://bottled-ant.github.io/blog/images/guide.jpg)
+
+![lost](https://bottled-ant.github.io/blog/images/lost.jpg)
+
+![logo](https://bottled-ant.github.io/blog/images/logo.png)
+
+![button](https://bottled-ant.github.io/blog/images/sidebar-button.png)
 
 object|width|height
 :-|-:|-:
