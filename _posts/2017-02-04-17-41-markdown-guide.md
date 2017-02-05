@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Markdown Guide
-cover: cover.jpg
+cover: guide.jpg
 date:   2017-02-04 17:41:00
 categories: posts
 ---
@@ -10,10 +10,9 @@ categories: posts
 <p></p>
 
 # Markdown Guide
-
-<p></p>
-
 ### kramdown
+
+This guide is here, because I tend to forget basic stuff.
 
 <p></p>
 
