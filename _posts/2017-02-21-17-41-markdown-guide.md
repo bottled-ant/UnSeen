@@ -2,7 +2,7 @@
 layout: post
 title: Markdown Guide
 cover: guide.jpg
-date:   2017-02-04 17:41:00
+date:   2017-02-21 17:41:00
 categories: posts
 ---
 

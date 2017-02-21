@@ -2,8 +2,8 @@
 name: UnProject
 markdown: kramdown
 highlighter: rouge
-description: UnProject Archive
-url: "https://bottled-ant.github.io/blog"
+description: UnSeen Archive
+url: "https://bottled-ant.github.io/UnSeen"
 baseurl: /blog
 
 exclude: [LICENCE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
