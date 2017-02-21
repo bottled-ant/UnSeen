@@ -16,7 +16,7 @@ Olá! chamo-me António Costa, estudante de Artes Plásticas e Multimédia na Es
 
 Falando em tolinhos, este blog existe com o propósito de servir de arquivo e talvez diário para o meu projeto final de curso, mas eu não sou uma pessoa muito organizada. Para além de disléxico sou provavelmente demente, daí o tema do meu projeto: A “imagem”
 
-Para saber mais sobre este projeto e porque esse é o motivo da existência deste blog e não para eu falar sobre mim clique aqui [UnSeen](https://bottled-ant.github.io/UnSeen/posts/...)
+Para saber mais sobre este projeto e porque esse é o motivo da existência deste blog e não para eu falar sobre mim clique aqui [UnSeen](https://bottled-ant.github.io/UnSeen/)
 
 <p></p>
 
