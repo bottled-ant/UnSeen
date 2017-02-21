@@ -2,7 +2,7 @@
 layout: post
 title: Markdown Guide
 cover: guide.jpg
-date:   2017-02-21 17:41:00
+date:   2017-02-19 10:31:00
 categories: posts
 ---
 
@@ -12,6 +12,8 @@ categories: posts
 # Markdown Guide
 
 ### kramdown
+
+Este guia existe, porque eu tenho por hábito esquecer-me do básico e permite-me testar edição.
 
 This guide is here, because I tend to forget basic stuff and for testing reasons.
 
@@ -85,19 +87,9 @@ I usually search using [Google](https://www.google.com "Google").
 
 ### Images
 ---
-![cover](https://bottled-ant.github.io/blog/images/cover.jpg)
+![cover](https://bottled-ant.github.io/UnSeen/images/cover.jpg)
 
-![about](https://bottled-ant.github.io/blog/images/about.jpg)
-
-![block](https://bottled-ant.github.io/blog/images/block.jpg)
-
-![guide](https://bottled-ant.github.io/blog/images/guide.jpg)
-
-![lost](https://bottled-ant.github.io/blog/images/lost.jpg)
-
-![logo](https://bottled-ant.github.io/blog/images/logo.png)
-
-![button](https://bottled-ant.github.io/blog/images/sidebar-button.png)
+<img src="https://bottled-ant.github.io/UnSeen/images/cover.jpg" alt="Cover" width="100%" height="auto">
 
 object|width|height
 :-|-:|-:
