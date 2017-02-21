@@ -4,7 +4,7 @@ markdown: kramdown
 highlighter: rouge
 description: UnSeen Archive
 url: "https://bottled-ant.github.io/UnSeen"
-baseurl: /blog
+baseurl: /UnSeen
 
 exclude: [LICENCE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
 
