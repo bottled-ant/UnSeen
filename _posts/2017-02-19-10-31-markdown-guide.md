@@ -86,8 +86,8 @@ I want to wrap **this text** in a `strong` tag and *this text* in an `emphasis` 
 I usually search using [Google](https://www.google.com "Google").
 
 ### Images
----
-![cover](https://bottled-ant.github.io/UnSeen/images/cover.jpg)
+
+[comment]: <> ![cover](https://bottled-ant.github.io/UnSeen/images/cover.jpg)
 
 <img src="https://bottled-ant.github.io/UnSeen/images/cover.jpg" alt="Cover" width="100%" height="auto">
 
