@@ -14,7 +14,6 @@ categories: posts
 ### kramdown
 <p></p>
 
-Este guia existe, porque eu tenho por hábito esquecer-me do básico e permite-me testar edição.
 This guide is here, because I tend to forget basic stuff and for testing reasons.
 
 <p></p>
